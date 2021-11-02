@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class NumberArray {
-    private int[] arr;
+    private final int[] arr;
 
     // Creates a NumberArray
     public NumberArray(int number, int size) {
